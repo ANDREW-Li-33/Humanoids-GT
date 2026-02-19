@@ -1,6 +1,5 @@
 # https://docs.docker.com/reference/compose-file/services/#examples
 
-
 services:
   ros_noetic_dev:
     build: . # build using the Dockerfile in the current directory
