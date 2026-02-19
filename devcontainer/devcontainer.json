@@ -1,7 +1,0 @@
-{
-    "name": "Humanoids GT",
-    "dockerComposeFile": "../docker-compose.yaml",
-    "service": "ros_noetic_dev",
-    "workspaceFolder": "/ros_ws"
-
-}
